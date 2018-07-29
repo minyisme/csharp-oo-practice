@@ -18,13 +18,6 @@ namespace CodePracticeOO
             this.red = red;
             this.blue = blue;
             this.green = green;
-        }
-
-        public Color(int red, int blue, int green)
-        {
-            this.red = red;
-            this.blue = blue;
-            this.green = green;
             this.alpha = 255;
         }
 
