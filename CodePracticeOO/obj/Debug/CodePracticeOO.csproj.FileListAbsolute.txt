@@ -1,0 +1,7 @@
+c:\users\v-miyan\source\repos\CodePracticeOO\CodePracticeOO\bin\Debug\CodePracticeOO.exe.config
+c:\users\v-miyan\source\repos\CodePracticeOO\CodePracticeOO\bin\Debug\CodePracticeOO.exe
+c:\users\v-miyan\source\repos\CodePracticeOO\CodePracticeOO\bin\Debug\CodePracticeOO.pdb
+c:\users\v-miyan\source\repos\CodePracticeOO\CodePracticeOO\obj\Debug\CodePracticeOO.csprojAssemblyReference.cache
+c:\users\v-miyan\source\repos\CodePracticeOO\CodePracticeOO\obj\Debug\CodePracticeOO.csproj.CoreCompileInputs.cache
+c:\users\v-miyan\source\repos\CodePracticeOO\CodePracticeOO\obj\Debug\CodePracticeOO.exe
+c:\users\v-miyan\source\repos\CodePracticeOO\CodePracticeOO\obj\Debug\CodePracticeOO.pdb
